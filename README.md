@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="xMqR, arquiteto de comunidades e desenvolvedor de aplicativos" width="100%">
+<img src="assets/banner.svg?v=2" alt="xMqR, arquiteto de comunidades e desenvolvedor de aplicativos" width="100%">
 
 <br>
 
@@ -9,7 +9,7 @@
 [![Fluxer](https://img.shields.io/badge/Fluxer-4a5a65?style=for-the-badge&logoColor=c1ced7)](https://fluxer.com/users/1561676586179100672)
 [![Global](https://img.shields.io/badge/Global--APP-4a5a65?style=for-the-badge&logo=github&logoColor=c1ced7)](https://github.com/Global-APP)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider.svg?v=2" alt="" width="100%">
 
 </div>
 
@@ -25,35 +25,35 @@ Crio projetos no Discord desde 2022, entre servidores, bots e eventos, e de vez 
 | **Marketing** | Noções de marketing digital para crescimento e engajamento |
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider.svg?v=2" alt="" width="100%">
 </div>
 
 ## Projetos
 
 <div align="center">
 
-<a href="https://ouce.site"><img src="assets/ouce.svg" alt="Ouce: player de música com slowed, reverb e speed up" width="100%"></a>
+<a href="https://ouce.site"><img src="assets/ouce.svg?v=2" alt="Ouce: player de música com slowed, reverb e speed up" width="100%"></a>
 
 [![Site](https://img.shields.io/badge/ouce.site-4a5a65?style=flat-square&labelColor=2a3238&logoColor=c1ced7)](https://ouce.site)
 [![Código](https://img.shields.io/badge/c%C3%B3digo-xMqRs%2FOuce-4a5a65?style=flat-square&labelColor=2a3238&logo=github&logoColor=c1ced7)](https://github.com/xMqRs/Ouce)
 
 <br><br>
 
-<a href="https://github.com/Global-APP/global"><img src="assets/global.svg" alt="Global: chat global entre comunidades do Fluxer" width="100%"></a>
+<a href="https://github.com/Global-APP/global"><img src="assets/global.svg?v=2" alt="Global: chat global entre comunidades do Fluxer" width="100%"></a>
 
 [![Código](https://img.shields.io/badge/c%C3%B3digo-Global--APP%2Fglobal-4a5a65?style=flat-square&labelColor=2a3238&logo=github&logoColor=c1ced7)](https://github.com/Global-APP/global)
 [![Adicionar ao servidor](https://img.shields.io/badge/adicionar%20ao%20servidor-4a5a65?style=flat-square&labelColor=2a3238&logoColor=c1ced7)](https://web.fluxer.app/oauth2/authorize?client_id=1562253521942745089&scope=bot&permissions=22527189434367169)
 
 <br><br>
 
-<a href="https://globalbot.site"><img src="assets/globalwebsite.svg" alt="GlobalWebsite: site oficial do Global" width="100%"></a>
+<a href="https://globalbot.site"><img src="assets/globalwebsite.svg?v=2" alt="GlobalWebsite: site oficial do Global" width="100%"></a>
 
 [![Site](https://img.shields.io/badge/globalbot.site-4a5a65?style=flat-square&labelColor=2a3238&logoColor=c1ced7)](https://globalbot.site)
 [![Código](https://img.shields.io/badge/c%C3%B3digo-Global--APP%2FGlobalWebsite-4a5a65?style=flat-square&labelColor=2a3238&logo=github&logoColor=c1ced7)](https://github.com/Global-APP/GlobalWebsite)
 
 <br>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider.svg?v=2" alt="" width="100%">
 
 </div>
 
@@ -89,6 +89,6 @@ Crio projetos no Discord desde 2022, entre servidores, bots e eventos, e de vez 
 
 <br><br>
 
-<img src="assets/footer.svg" alt="Projetos nascem de ideias colocadas em prática" width="100%">
+<img src="assets/footer.svg?v=2" alt="Projetos nascem de ideias colocadas em prática" width="100%">
 
 </div>
