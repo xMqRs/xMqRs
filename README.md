@@ -4,10 +4,10 @@
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-33251e?style=for-the-badge&logo=linktree&logoColor=d8bfa6)](https://bit.ly/xmqr)
-[![Discord](https://img.shields.io/badge/Discord-33251e?style=for-the-badge&logo=discord&logoColor=d8bfa6)](https://discord.com/users/1035619333730205846)
-[![Fluxer](https://img.shields.io/badge/Fluxer-33251e?style=for-the-badge&logoColor=d8bfa6)](https://fluxer.com/users/1561676586179100672)
-[![Global](https://img.shields.io/badge/Global--APP-33251e?style=for-the-badge&logo=github&logoColor=d8bfa6)](https://github.com/Global-APP)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-4a5a65?style=for-the-badge&logo=linktree&logoColor=c1ced7)](https://bit.ly/xmqr)
+[![Discord](https://img.shields.io/badge/Discord-4a5a65?style=for-the-badge&logo=discord&logoColor=c1ced7)](https://discord.com/users/1035619333730205846)
+[![Fluxer](https://img.shields.io/badge/Fluxer-4a5a65?style=for-the-badge&logoColor=c1ced7)](https://fluxer.com/users/1561676586179100672)
+[![Global](https://img.shields.io/badge/Global--APP-4a5a65?style=for-the-badge&logo=github&logoColor=c1ced7)](https://github.com/Global-APP)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -34,22 +34,22 @@ Crio projetos no Discord desde 2022, entre servidores, bots e eventos, e de vez 
 
 <a href="https://ouce.site"><img src="assets/ouce.svg" alt="Ouce: player de música com slowed, reverb e speed up" width="100%"></a>
 
-[![Site](https://img.shields.io/badge/ouce.site-33251e?style=flat-square&labelColor=241a15&logoColor=d8bfa6)](https://ouce.site)
-[![Código](https://img.shields.io/badge/c%C3%B3digo-xMqRs%2FOuce-33251e?style=flat-square&labelColor=241a15&logo=github&logoColor=d8bfa6)](https://github.com/xMqRs/Ouce)
+[![Site](https://img.shields.io/badge/ouce.site-4a5a65?style=flat-square&labelColor=2a3238&logoColor=c1ced7)](https://ouce.site)
+[![Código](https://img.shields.io/badge/c%C3%B3digo-xMqRs%2FOuce-4a5a65?style=flat-square&labelColor=2a3238&logo=github&logoColor=c1ced7)](https://github.com/xMqRs/Ouce)
 
 <br><br>
 
 <a href="https://github.com/Global-APP/global"><img src="assets/global.svg" alt="Global: chat global entre comunidades do Fluxer" width="100%"></a>
 
-[![Código](https://img.shields.io/badge/c%C3%B3digo-Global--APP%2Fglobal-33251e?style=flat-square&labelColor=241a15&logo=github&logoColor=d8bfa6)](https://github.com/Global-APP/global)
-[![Adicionar ao servidor](https://img.shields.io/badge/adicionar%20ao%20servidor-33251e?style=flat-square&labelColor=241a15&logoColor=d8bfa6)](https://web.fluxer.app/oauth2/authorize?client_id=1562253521942745089&scope=bot&permissions=22527189434367169)
+[![Código](https://img.shields.io/badge/c%C3%B3digo-Global--APP%2Fglobal-4a5a65?style=flat-square&labelColor=2a3238&logo=github&logoColor=c1ced7)](https://github.com/Global-APP/global)
+[![Adicionar ao servidor](https://img.shields.io/badge/adicionar%20ao%20servidor-4a5a65?style=flat-square&labelColor=2a3238&logoColor=c1ced7)](https://web.fluxer.app/oauth2/authorize?client_id=1562253521942745089&scope=bot&permissions=22527189434367169)
 
 <br><br>
 
 <a href="https://globalbot.site"><img src="assets/globalwebsite.svg" alt="GlobalWebsite: site oficial do Global" width="100%"></a>
 
-[![Site](https://img.shields.io/badge/globalbot.site-33251e?style=flat-square&labelColor=241a15&logoColor=d8bfa6)](https://globalbot.site)
-[![Código](https://img.shields.io/badge/c%C3%B3digo-Global--APP%2FGlobalWebsite-33251e?style=flat-square&labelColor=241a15&logo=github&logoColor=d8bfa6)](https://github.com/Global-APP/GlobalWebsite)
+[![Site](https://img.shields.io/badge/globalbot.site-4a5a65?style=flat-square&labelColor=2a3238&logoColor=c1ced7)](https://globalbot.site)
+[![Código](https://img.shields.io/badge/c%C3%B3digo-Global--APP%2FGlobalWebsite-4a5a65?style=flat-square&labelColor=2a3238&logo=github&logoColor=c1ced7)](https://github.com/Global-APP/GlobalWebsite)
 
 <br>
 
@@ -61,15 +61,15 @@ Crio projetos no Discord desde 2022, entre servidores, bots e eventos, e de vez 
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-33251e?style=for-the-badge&logo=javascript&logoColor=d8bfa6)
-![HTML](https://img.shields.io/badge/HTML-33251e?style=for-the-badge&logo=html5&logoColor=d8bfa6)
-![CSS](https://img.shields.io/badge/CSS-33251e?style=for-the-badge&logo=css3&logoColor=d8bfa6)
-![Node.js](https://img.shields.io/badge/Node.js-33251e?style=for-the-badge&logo=nodedotjs&logoColor=d8bfa6)
-![Bun](https://img.shields.io/badge/Bun-33251e?style=for-the-badge&logo=bun&logoColor=d8bfa6)
-![MongoDB](https://img.shields.io/badge/MongoDB-33251e?style=for-the-badge&logo=mongodb&logoColor=d8bfa6)
-![Supabase](https://img.shields.io/badge/Supabase-33251e?style=for-the-badge&logo=supabase&logoColor=d8bfa6)
-![Vercel](https://img.shields.io/badge/Vercel-33251e?style=for-the-badge&logo=vercel&logoColor=d8bfa6)
-![Discord](https://img.shields.io/badge/Discord-33251e?style=for-the-badge&logo=discord&logoColor=d8bfa6)
+![JavaScript](https://img.shields.io/badge/JavaScript-4a5a65?style=for-the-badge&logo=javascript&logoColor=c1ced7)
+![HTML](https://img.shields.io/badge/HTML-4a5a65?style=for-the-badge&logo=html5&logoColor=c1ced7)
+![CSS](https://img.shields.io/badge/CSS-4a5a65?style=for-the-badge&logo=css3&logoColor=c1ced7)
+![Node.js](https://img.shields.io/badge/Node.js-4a5a65?style=for-the-badge&logo=nodedotjs&logoColor=c1ced7)
+![Bun](https://img.shields.io/badge/Bun-4a5a65?style=for-the-badge&logo=bun&logoColor=c1ced7)
+![MongoDB](https://img.shields.io/badge/MongoDB-4a5a65?style=for-the-badge&logo=mongodb&logoColor=c1ced7)
+![Supabase](https://img.shields.io/badge/Supabase-4a5a65?style=for-the-badge&logo=supabase&logoColor=c1ced7)
+![Vercel](https://img.shields.io/badge/Vercel-4a5a65?style=for-the-badge&logo=vercel&logoColor=c1ced7)
+![Discord](https://img.shields.io/badge/Discord-4a5a65?style=for-the-badge&logo=discord&logoColor=c1ced7)
 
 </div>
 
@@ -84,8 +84,8 @@ Crio projetos no Discord desde 2022, entre servidores, bots e eventos, e de vez 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xMqRs&show_icons=true&hide_border=true&bg_color=33251e&title_color=d8bfa6&text_color=f3e7db&icon_color=d8bfa6&ring_color=d8bfa6&border_radius=16" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMqRs&layout=compact&hide_border=true&bg_color=33251e&title_color=d8bfa6&text_color=f3e7db&border_radius=16" alt="Linguagens mais usadas">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xMqRs&show_icons=true&hide_border=true&bg_color=4a5a65&title_color=c1ced7&text_color=e7edf0&icon_color=c1ced7&ring_color=c1ced7&border_radius=16" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMqRs&layout=compact&hide_border=true&bg_color=4a5a65&title_color=c1ced7&text_color=e7edf0&border_radius=16" alt="Linguagens mais usadas">
 
 <br><br>
 
